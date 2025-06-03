@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sahara Pharma - Home</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <img src="assets/logo.jpeg" alt="Sahara Pharma Logo" class="logo" />
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1>Welcome to Sahara Pharma</h1>
+      <p>Your trusted pharmaceutical partner in South Sudan.</p>
+    </div>
+  </header>
+
+  <section class="products">
+    <h2>Wholesale Products</h2>
+    <div class="product-grid">
+      <div class="product-card">Paracetamol 500mg</div>
+      <div class="product-card">Amoxicillin 250mg</div>
+      <div class="product-card">Ibuprofen 400mg</div>
+    </div>
+    <p class="note">*Full online store coming soon.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Sahara Pharma Limited. All rights reserved.</p>
+  </footer>
+</body>
+</html>
